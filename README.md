@@ -20,8 +20,9 @@ This repository contains Codex-handoff packages for independent execution.
 
    Current TabArena prediction-level type-aware gated-transfer package. The
    package includes `plan.md`; Professor Yuan's Codex/Cursor agent should read
-   it and run `RUN_TABARENA_FINAL.command`. This is the package to use for the
-   current TabArena rerun.
+   it and run `RUN_TABARENA_FINAL.command`. It returns the primary
+   type-balanced dataset-rank summary, one-sided 90% lower bound, and paired
+   sign-flip p-value. This is the package to use for the current TabArena rerun.
 
 5. `tabarena_prediction_level_for_professor_yuan_20260706.zip`
 
@@ -33,7 +34,7 @@ This repository contains Codex-handoff packages for independent execution.
 990ccec880b443c623e3ee253ecb8709c98f238a8af2e19bb3c4cdf35ae0def1  causal_interval_transfer_for_professor_yuan_20260702_evaluator_seeded_final_codex.zip
 b79ea73942e9ba1b660e63455ff363376699613a21b1cdc63b5c2b750e50da8f  final_hidden_resampling_matbench_only_for_professor_yuan_20260701_dependency_fix_codex.zip
 b46c5ec60daaa985d555710027e52143982cb6613f6f4a810d994c9b13c3e24a  final_hidden_resampling_matbench_with_expert_reference_for_professor_yuan_20260703.zip
-ff1439f0fe3562cf853f284b552dfa32ab867744c5e3b0e54f22e97c89418976  tabarena_prediction_level_for_professor_yuan_20260707_gated.zip
+6adab75f4c5629c2b2367157b6d6195519381031b55166a2fa405500c54541c4  tabarena_prediction_level_for_professor_yuan_20260707_gated.zip
 0c4c222edea31ad5f07feeb860828bf4d5390e2d69b99dd7324b099e91d344b6  tabarena_prediction_level_for_professor_yuan_20260706.zip
 ```
 
